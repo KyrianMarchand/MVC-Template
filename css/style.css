@@ -1,0 +1,18 @@
+
+/* CSS RESET */
+
+/* Remove default margin */
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, main {
+    margin: 0;
+}
+
+/* A elements that don't have a class get default styles */
+a {
+    text-decoration: none;
+}
+
+/* Make images easier to work with */
+img, picture {
+    max-width: 100%;
+    display: block;
+}
